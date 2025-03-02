@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Allycia Joan Micheline
 
 - 🌱 I’m currently learning and interested in Data Science and AI/ML Engineer
+- 📫 Reach me through amjoan1905@gmail.com
+
 <!--
 **JoanNycto/JoanNycto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
