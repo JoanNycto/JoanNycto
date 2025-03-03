@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Allycia Joan Micheline
 
-- 🌱 I’m currently learning and interested in Data Science and AI/ML Engineer
+- 🌱 I’m currently learning and interested in Data Science and AI/ML Engineering
 - 📫 Reach me through amjoan1905@gmail.com
 
 <h3 align="left">Connect with me:</h3>
